@@ -1,0 +1,17 @@
+const chip = [
+  "Lays",
+  "Kurkure",
+  "Wavy",
+  "Super Crisp",
+  "Pringles",
+  "Doritos",
+  "Cheetos",
+  "Kurleez",
+  "Slanty",
+  "Dip n Dip",
+  "Ring X",
+  "Cherry Ball",
+  "Potato Stick",
+  "Waisher",
+  "Snackers Chips",
+];
